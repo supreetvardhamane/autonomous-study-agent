@@ -28,7 +28,7 @@ An agentic AI application that builds a personalized study plan from any PDF —
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/supreetvardhamane/autonomous-study-agent.git
 cd autonomous-study-agent
 
 # Install all dependencies (root + backend + frontend)
