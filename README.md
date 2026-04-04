@@ -3,7 +3,7 @@
 An agentic AI application that builds a personalized study plan from any PDF — implementing a full **perceive → reason → plan → act → observe** loop.
 
 ---
-[Watch Demo Video]([https://www.loom.com/share/7868cf4e764749d58ad900c19f24bbb5])
+[Watch Demo Video](https://www.loom.com/share/7868cf4e764749d58ad900c19f24bbb5)
 
 ## ✨ Features
 
